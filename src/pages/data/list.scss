@@ -1,0 +1,29 @@
+.h{
+    color:black;
+    font-weight: 500;
+}
+.row{
+    border: 0.2px;
+    border-color:darkgray;
+    border-style: solid;
+    margin: '6px';
+}
+.selected{
+    background-color:#ACD6FF;
+    padding: 5px;
+    color: white;
+}
+.index{
+  padding: 3px;
+// display: inline-block;
+}
+.item{
+  margin: 5px;
+}
+
+.info{
+  font-size: 10px;
+}
+.btn{
+  margin-top: 5px;
+}

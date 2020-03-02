@@ -1,0 +1,9 @@
+.picker{
+  position: relative;
+  padding: 24rpx 0;
+  color: #333;
+  background-color: #FFF;
+  margin-left: 32rpx;
+  /* 修复底线隐藏问题 */
+  margin-bottom: 1PX;
+}
